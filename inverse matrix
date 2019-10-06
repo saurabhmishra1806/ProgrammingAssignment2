@@ -1,9 +1,9 @@
-## <<-is used to assign a value to an object in an enviroment.
-Here, the first function makeCacheMatrix creates a special vector which is a list containing a function too...
-cacheSolve checks the checks the inverse if created then it returns...here the inverse is created.
+##<<-is used to assign a value to an object in an enviroment.
+##Here, the first function makeCacheMatrix creates a special vector which is a list containing a function too...##
+##cacheSolve checks the checks the inverse if created then it returns...here the inverse is created.
 
 
-The code begins...
+##The code begins...
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
